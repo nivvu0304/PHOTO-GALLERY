@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.img1{
+    height: 400px;
+    width:300px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    left: 575px;
+    z-index: 10;
+    cursor: pointer;
+    text-align: center;
+
+}
+.img2{
+    height: 600px;
+    width: 500px;
+}
+
+
+.links {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
